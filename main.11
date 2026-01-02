@@ -1,0 +1,5 @@
+azure-python-app/
+│
+├── app.py
+├── requirements.txt
+└── startup.txt   (optional but recommended)
